@@ -7,6 +7,8 @@ public class Batman {
         //So close to catch but really have to find time
 
         // Batman has cool Bat mobile
+
+        // Batman has a cool Bat motorbike
     }
 
     //The new commit from this class
